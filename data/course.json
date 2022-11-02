@@ -1,0 +1,50 @@
+[
+    {
+      "_id": "6362559930793b5c37c46d42",
+      "category_id": 1,
+      "price": "$1,649.16",
+      "picture": "http://placehold.it/32x32",
+      "company": "Multron",
+      "about": "Cillum incididunt ex id consequat. Esse id tempor consectetur et. Ea cillum officia duis est aute ut enim ut. Dolore Lorem consectetur ex proident do in ex nisi irure irure laboris et.\r\n"
+    },
+    {
+      "_id": "63625599b4130b7268f8f27f",
+      "category_id": 2,
+      "price": "$3,777.18",
+      "picture": "http://placehold.it/32x32",
+      "company": "Bitrex",
+      "about": "Lorem exercitation minim velit officia veniam cupidatat pariatur magna veniam pariatur in et ut fugiat. Irure Lorem mollit ullamco velit ad labore duis in irure dolore consequat nisi ea. Laboris consequat sunt in occaecat irure aute aute velit sint nulla cupidatat nisi. Reprehenderit quis culpa mollit in labore ut cillum pariatur cupidatat qui exercitation deserunt. Ex cillum anim nostrud sunt veniam culpa deserunt nulla irure tempor cillum velit occaecat. Et aliqua Lorem deserunt eu non cupidatat ad laborum. Sunt nostrud nostrud proident duis.\r\n"
+    },
+    {
+      "_id": "63625599cf039fd30782a472",
+      "category_id": 2,
+      "price": "$2,125.67",
+      "picture": "http://placehold.it/32x32",
+      "company": "Zeam",
+      "about": "Eu in ullamco ad ullamco id mollit voluptate nostrud amet laboris mollit cillum. Id fugiat commodo nulla non qui laboris eiusmod cillum sint Lorem do amet cupidatat deserunt. Fugiat laboris elit non elit culpa ea adipisicing non irure sunt mollit aute. Exercitation eiusmod sint consectetur elit quis aute voluptate commodo consequat aliquip adipisicing velit dolore. Lorem veniam sit officia minim laborum incididunt culpa sint aliqua aute nisi est et magna. Ullamco pariatur laborum elit laboris id quis voluptate anim pariatur aliqua dolor. In minim reprehenderit amet quis incididunt in.\r\n"
+    },
+    {
+      "_id": "63625599ff98a45c87f874c3",
+      "category_id": 3,
+      "price": "$1,633.91",
+      "picture": "http://placehold.it/32x32",
+      "company": "Essensia",
+      "about": "Deserunt nisi aliquip laborum est. Anim anim minim do mollit et fugiat tempor quis dolore voluptate excepteur incididunt non. Ullamco eu proident magna elit. Mollit ullamco ad nisi duis. Laborum sunt in eu incididunt est esse sit cupidatat.\r\n"
+    },
+    {
+      "_id": "63625599d64889aae7e9c7dc",
+      "category_id": 4,
+      "price": "$1,877.85",
+      "picture": "http://placehold.it/32x32",
+      "company": "Genmex",
+      "about": "Amet qui consequat irure occaecat deserunt reprehenderit. Proident Lorem commodo veniam velit. Ut nostrud occaecat dolore laboris ea. Anim duis esse deserunt voluptate ipsum voluptate. Adipisicing non magna reprehenderit anim cillum consectetur.\r\n"
+    },
+    {
+      "_id": "636255996e0bd38d50b370f9",
+      "category_id": 5,
+      "price": "$1,760.07",
+      "picture": "http://placehold.it/32x32",
+      "company": "Gluid",
+      "about": "Ea nisi eiusmod irure duis exercitation commodo adipisicing ad Lorem. Culpa esse exercitation consectetur aute labore aliquip magna cupidatat dolor velit ad. Do nisi est officia aliquip minim aute ex commodo sunt et eu laboris. Minim tempor velit incididunt id non excepteur laborum consequat sunt. Magna enim exercitation aliqua irure ad. Sint id qui duis id. Nostrud nulla minim reprehenderit cupidatat tempor qui sit excepteur fugiat nisi.\r\n"
+    }
+  ]
