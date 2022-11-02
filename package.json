@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-khalilonline99#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2"
   }
 }
