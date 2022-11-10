@@ -32,6 +32,12 @@ app.get('/course/:id/details', (req, res) => {
   res.send(selectedCourse);
 })
 
+app.get('/checkout/:id', (req, res) => {
+  const id = req.params.id;
+  const selectedCourse = courses.find( c => c._id == id);
+  res.send(selectedCourse);
+})
+
 app.get('/category/:id', (req, res) => {
   const id = req.params.id;
   const categoryCourse = courses.filter( c => c.category_id === id)
