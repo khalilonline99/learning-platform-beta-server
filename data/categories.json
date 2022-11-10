@@ -1,11 +1,11 @@
 [
     {
       "category_id": 1,
-      "name": "Language Studies"
+      "name": "Language Learning"
     },
     {
       "category_id": 2,
-      "name": "Intensive English"
+      "name": "Business"
     },
     {
       "category_id": 3,
@@ -13,7 +13,7 @@
     },
     {
       "category_id": 4,
-      "name": "Spanish"
+      "name": "Health"
     },
     {
       "category_id": 5,

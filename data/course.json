@@ -4,15 +4,15 @@
     "category_id": "1",
     "price": "1649.16",
     "picture": "http://placehold.it/32x32",
-    "name": "Multron",
-    "about": "Cillum incididunt ex id consequat. Esse id tempor consectetur et. Ea cillum officia duis est aute ut enim ut. Dolore Lorem consectetur ex proident do in ex nisi irure irure laboris et.\r\n"
+    "name": "Russian for Beginner",
+    "about": "Welcome to our online course on the Russian language. We have created 14 lessons for you to discover this wonderful language so you can have a basic first contact. In other words, you won't find long lessons with never-ending grammar sections here. We touch on a variety of aspects of the Russian language, which gives you a general understanding in a short period. Russian has grammatical concepts which might be non-existent in your native language. We'll introduce them briefly, so you get to know them without having to read long explanations.\r\n"
   },
   {
     "_id": "63625599b4130b7268f8f27f",
     "category_id": "2",
     "price": "3777.18",
     "picture": "http://placehold.it/32x32",
-    "name": "Bitrex",
+    "name": "Influencer Marketing",
     "about": "Lorem exercitation minim velit officia veniam cupidatat pariatur magna veniam pariatur in et ut fugiat. Irure Lorem mollit ullamco velit ad labore duis in irure dolore consequat nisi ea. Laboris consequat sunt in occaecat irure aute aute velit sint nulla cupidatat nisi. Reprehenderit quis culpa mollit in labore ut cillum pariatur cupidatat qui exercitation deserunt. Ex cillum anim nostrud sunt veniam culpa deserunt nulla irure tempor cillum velit occaecat. Et aliqua Lorem deserunt eu non cupidatat ad laborum. Sunt nostrud nostrud proident duis.\r\n"
   },
   {
@@ -20,23 +20,23 @@
     "category_id": "2",
     "price": "2125.67",
     "picture": "http://placehold.it/32x32",
-    "name": "Zeam",
-    "about": "Eu in ullamco ad ullamco id mollit voluptate nostrud amet laboris mollit cillum. Id fugiat commodo nulla non qui laboris eiusmod cillum sint Lorem do amet cupidatat deserunt. Fugiat laboris elit non elit culpa ea adipisicing non irure sunt mollit aute. Exercitation eiusmod sint consectetur elit quis aute voluptate commodo consequat aliquip adipisicing velit dolore. Lorem veniam sit officia minim laborum incididunt culpa sint aliqua aute nisi est et magna. Ullamco pariatur laborum elit laboris id quis voluptate anim pariatur aliqua dolor. In minim reprehenderit amet quis incididunt in.\r\n"
+    "name": "Social Media Management",
+    "about": "Influencer marketing is the practice of engaging internal and industry experts with active networks to help achieve measurable business goals. This course is about strategy. Although there is no all-purpose, one-size-fits-all influencer marketing strategy template, you will learn how to tailor one for a wide variety of B2B, B2C, and nonprofit organizations using the two-step flow model of communication.But this course is also about tactics. I believe, “Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.” So, you will learn both in this 6-week long course.\r\n"
   },
   {
     "_id": "63625599ff98a45c87f874c3",
     "category_id": "3",
     "price": "1633.91",
     "picture": "http://placehold.it/32x32",
-    "name": "Essensia",
-    "about": "Deserunt nisi aliquip laborum est. Anim anim minim do mollit et fugiat tempor quis dolore voluptate excepteur incididunt non. Ullamco eu proident magna elit. Mollit ullamco ad nisi duis. Laborum sunt in eu incididunt est esse sit cupidatat.\r\n"
+    "name": "Learning How to Learn",
+    "about": "This course gives you easy access to the invaluable learning techniques used by experts in art, music, literature, math, science, sports, and many other disciplines. We’ll learn about how the brain uses two very different learning modes and how it encapsulates (“chunks”) information. We’ll also cover illusions of learning, memory techniques, dealing with procrastination, and best practices shown by research to be most effective in helping you master tough subjects. \r\n"
   },
   {
     "_id": "63625599d64889aae7e9c7dc",
     "category_id": "4",
     "price": "1877.85",
     "picture": "http://placehold.it/32x32",
-    "name": "Genmex",
+    "name": "Epidemiology in Public Health Practice Specialization",
     "about": "Amet qui consequat irure occaecat deserunt reprehenderit. Proident Lorem commodo veniam velit. Ut nostrud occaecat dolore laboris ea. Anim duis esse deserunt voluptate ipsum voluptate. Adipisicing non magna reprehenderit anim cillum consectetur.\r\n"
   },
   {
@@ -60,8 +60,8 @@
     "category_id": "1",
     "price": "1943.17",
     "picture": "http://placehold.it/32x32",
-    "name": "Avenetro",
-    "about": "Nostrud id cupidatat consectetur ipsum deserunt dolor eiusmod do. Sint minim labore mollit anim ex excepteur ullamco laborum mollit laborum aliqua laborum sint. Aliqua laborum pariatur elit est pariatur in consectetur incididunt reprehenderit ad. Ipsum proident sit reprehenderit tempor in. Ut labore amet excepteur veniam. Consequat ex do labore cillum veniam ullamco esse officia elit ad cupidatat laboris in est. Nisi aute sunt sunt amet enim adipisicing est cillum.\r\n"
+    "name": "Chinese For Beginners",
+    "about": "Nowadays, there is an increasing number of people who are interested in Chinese culture and language. And it is useful to know about the language when coming to China for travel or business. This is an ABC Chinese course for beginners, including introduction of phonetics and daily expressions. After taking this class, learners can have a basic understanding of Chinese Mandarin and make basic conversations of daily living such as exchanging personal information, talking about daily arrangements and food, asking about price, introducing the city and the weather, telling your hobbies etc..\r\n"
   },
   {
     "_id": "6362b5687aa751fbf0f44872",
@@ -84,8 +84,8 @@
     "category_id": "3",
     "price": "3574.19",
     "picture": "http://placehold.it/32x32",
-    "name": "Lyrichord",
-    "about": "Commodo id incididunt aliqua mollit exercitation culpa anim dolore qui cupidatat ea Lorem excepteur. Id ex id labore culpa ut. Anim officia nostrud Lorem anim eiusmod do nostrud pariatur occaecat consequat aliqua labore amet cillum. Laboris ipsum aliquip sit amet laborum ipsum nostrud incididunt ipsum reprehenderit. Occaecat excepteur occaecat sint velit cillum sunt nisi velit in fugiat non ad Lorem ipsum.\r\n"
+    "name": "Python for Everybody Specialization",
+    "about": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization.\r\n"
   },
   {
     "_id": "6362b568ae4cb2aed858b968",
@@ -124,16 +124,16 @@
     "category_id": "2",
     "price": "3901.45",
     "picture": "http://placehold.it/32x32",
-    "name": "Nixelt",
-    "about": "Lorem duis nostrud qui sint culpa aliqua occaecat sunt ea labore consequat. Velit voluptate sint tempor nostrud reprehenderit nostrud in amet ipsum. Minim ad quis exercitation deserunt consequat proident esse aliquip incididunt occaecat. Duis magna laborum amet id ipsum minim amet qui. Velit duis velit deserunt id nulla adipisicing laborum in ipsum amet proident voluptate elit. Mollit dolor consectetur veniam sint consectetur cupidatat dolor enim duis. Commodo voluptate aliquip velit id ex culpa voluptate.\r\n"
+    "name": "Brand Management",
+    "about": "Professor Nader Tavassoli of London Business School contrasts traditional approaches to branding - where brands are a visual identity and a promise to customers - to brands as a customer experience delivered by the entire organisation. The course offers a brand workout for your own brands, as well as guest videos from leading branding professionals\r\n"
   },
   {
     "_id": "6362b59a3fb4142e048cfa78",
     "category_id": "3",
     "price": "3114.30",
     "picture": "http://placehold.it/32x32",
-    "name": "Quordate",
-    "about": "Tempor minim qui reprehenderit adipisicing cillum. Anim voluptate duis dolor esse velit elit est. Irure qui non eu sit irure. Aliqua cupidatat non magna nostrud aliqua excepteur qui esse aliqua. Dolore ex do culpa nulla. Cupidatat adipisicing occaecat velit anim in mollit nisi irure do nisi irure.\r\n"
+    "name": "Programming for Everybody",
+    "about": "This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook “Python for Everybody”.  Once a student completes this course, they will be ready to take more advanced programming courses. This course covers Python 3..\r\n"
   },
   {
     "_id": "6362b59adbcfc9ede3cf933b",
@@ -172,24 +172,24 @@
     "category_id": "1",
     "price": "2388.51",
     "picture": "http://placehold.it/32x32",
-    "name": "Aquafire",
-    "about": "In non commodo eu ipsum consectetur aliquip mollit non anim nulla id. Culpa occaecat nisi in consectetur commodo ullamco velit sint. Nulla ipsum ex sint nulla velit id voluptate do sunt ea enim commodo eiusmod incididunt. Dolor do non duis sunt incididunt minim non enim elit ea laborum sit.\r\n"
+    "name": "Arabic for Beginners",
+    "about": "Learn arabic for free with our lessons and resources. The best Arabic resource for beginners in English. Grammar lesson, visual learning, quizes and more.\r\n"
   },
   {
     "_id": "6362b53a1a1b7ebd48cbe99e",
     "category_id": "3",
     "price": "3901.45",
     "picture": "http://placehold.it/32x32",
-    "name": "Nixelt",
-    "about": "Lorem duis nostrud qui sint culpa aliqua occaecat sunt ea labore consequat. Velit voluptate sint tempor nostrud reprehenderit nostrud in amet ipsum. Minim ad quis exercitation deserunt consequat proident esse aliquip incididunt occaecat. Duis magna laborum amet id ipsum minim amet qui. Velit duis velit deserunt id nulla adipisicing laborum in ipsum amet proident voluptate elit. Mollit dolor consectetur veniam sint consectetur cupidatat dolor enim duis. Commodo voluptate aliquip velit id ex culpa voluptate.\r\n"
+    "name": "Google IT Support Professional Certificate",
+    "about": "Get started in the in-demand field of IT with a Professional Certificate from Google. Learn the foundations of networking and operating systems, providing end-to-end customer support, and how to solve problems using code..\r\n"
   },
   {
     "_id": "6362b59a3f35142e048cfa78",
     "category_id": "3",
     "price": "3114.30",
     "picture": "http://placehold.it/32x32",
-    "name": "Quordate",
-    "about": "Tempor minim qui reprehenderit adipisicing cillum. Anim voluptate duis dolor esse velit elit est. Irure qui non eu sit irure. Aliqua cupidatat non magna nostrud aliqua excepteur qui esse aliqua. Dolore ex do culpa nulla. Cupidatat adipisicing occaecat velit anim in mollit nisi irure do nisi irure.\r\n"
+    "name": "Deep Learning Specialization",
+    "about": "In this Specialization, you will build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. Get ready to master theoretical concepts and their industry applications using Python and TensorFlow and tackle real-world cases such as speech recognition, music synthesis, chatbots, machine translation, natural language processing, and more..\r\n"
   },
   {
     "_id": "6362b59adbcfc9ede3cf9d3b",
