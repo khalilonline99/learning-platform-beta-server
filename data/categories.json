@@ -17,11 +17,11 @@
     },
     {
       "category_id": 5,
-      "name": "Management"
+      "name": "Personal Development"
     },
     {
       "category_id": 6,
-      "name": "Business Studies"
+      "name": "Math and Logic"
     },
     {
       "category_id": 7,
@@ -29,6 +29,6 @@
     },
     {
       "category_id": 8,
-      "name": "Logistics"
+      "name": "Physical Science and Engineering"
     }
   ]
